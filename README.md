@@ -74,6 +74,7 @@ Para rodar a aplicação em seu diretório, basta digitar:
 
 O servidor estará rodando na porta:3333
 
+---
 
 ### :computer: Tecnologias
 
