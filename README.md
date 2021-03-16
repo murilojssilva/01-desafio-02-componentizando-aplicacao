@@ -61,8 +61,9 @@ $ yarn dev
 
 #### O servidor iniciará na porta:8080 - acesse <http://localhost:8080>
 
-## Servidor
+## :game_die: Servidor
 
+O servidor da aplicação foi construído utilizando JSON Server.
 Para rodar a aplicação em seu diretório, basta digitar:
 
 ### `yarn server`
